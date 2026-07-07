@@ -133,4 +133,4 @@ lib/
 
 ## Submitted for
 
-Software Developer (Intern / Full-Time) — GrowEasy
+Software Developer (Intern) — GrowEasy
