@@ -6,8 +6,8 @@ CRM schema, without assuming fixed column names.
 
 ## Live demo
 
-- App: `<ADD YOUR VERCEL URL HERE>`
-- Repo: `<ADD YOUR GITHUB URL HERE>`
+- App: `[<ADD YOUR VERCEL URL HERE>](https://crm-lead-importer.vercel.app/)`
+- Repo: `[<ADD YOUR GITHUB URL HERE>](https://github.com/parthpathakpp29/crm-lead-importer)`
 
 ## Why this architecture
 
